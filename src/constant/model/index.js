@@ -1,0 +1,4 @@
+export const HIDEN_MODEL = 'HIDEN_MODEL';
+export const SHOW_MODEL = 'SHOW_MODEL';
+export const GET_TITLE_MODEL = 'GET_TITLE_MODEL';
+export const GET_COMPONENT_MODEL = 'GET_COMPONENT_MODEL';

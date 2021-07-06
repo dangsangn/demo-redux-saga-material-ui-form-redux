@@ -1,0 +1,5 @@
+export const SHOW_LOADING = "SHOW_LOADING";
+export const HIDDEN_LOADING = "HIDDEN_LOADING";
+
+export const SHOW_SIDEBAR = "SHOW_SIDEBAR";
+export const HIDDEN_SIDEBAR = "HIDDEN_SIDEBAR";
